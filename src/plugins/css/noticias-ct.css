@@ -1,0 +1,12 @@
+.selectit input[type="checkbox"] {
+    display: none;
+}
+#category-adder {
+    display:none;
+}
+.column-materia_destaque {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
